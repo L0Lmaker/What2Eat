@@ -2,6 +2,8 @@
 
 ![img.png](img.png)
 
+![img_3.png](img_3.png)
+
 ![img_2.png](img_2.png)
 
 ![img_1.png](img_1.png)
@@ -68,6 +70,7 @@ Robust Design Classes: RecipeBook and MealPlan
 - NoRecipesInBookException()
 
 ### Phase 4: Task 3
+
 ####Changes:
 - Ingredients class to be able to display list of groceries needed for the week based on the generated mealplan
 - Split Recipe into BreakfastRecipe, LunchRecipe and DinnerRecipe so that a wrong type of recipe isnt assigned to the wrong time of day. (ie. Cereal for dinner)
