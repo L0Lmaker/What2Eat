@@ -1,5 +1,11 @@
 # MEal Plan
 
+![img.png](img.png)
+
+![img_2.png](img_2.png)
+
+![img_1.png](img_1.png)
+
 ## You are what you eat, but who knows what to eat?
 
 ### Inspiration
